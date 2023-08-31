@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "repositry description"
+echo "shell basic"
