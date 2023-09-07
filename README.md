@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "shell basic"
+1. giving the ownership to another
