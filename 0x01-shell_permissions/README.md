@@ -1,1 +1,2 @@
-1.doing permmision to another owner 
+#!/bin/bash
+echo "giving permmissions"
