@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v $(read x)
+sort | uniq -u
